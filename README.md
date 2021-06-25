@@ -9,9 +9,9 @@ This repository is containing all resources dedicated to [Swift]() and [SwiftUI]
 
 [PUBLIC]
 
-## folders organization
+## content
 
-There are some folders to organize resources.
+there are some folders to organize resources.
 
 - [pictures]()
 - [projects]()
@@ -29,4 +29,4 @@ There are some folders to organize resources.
 
 Check the [license]() file.
 
-## last update: 2021.06.22
+## last updates: 2021.06.25
