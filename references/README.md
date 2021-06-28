@@ -3,16 +3,20 @@
 
 ## introduction
 
+this folder is containing some references concerning the solution Kubernetes.
+
 ## content
 
-### documents
+## references
 
-This section is presenting some useful document which are available here.
+Some useful references for this repository.
 
-### websites
-
-This section is presenting some useful links concerning this main subject/project.
+### documentation
 
 - [Creating a personal access token](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 
-## last updates: 2021.06.25
+### reading
+
+### webistes
+
+## last updates: 2021.06.28
